@@ -8,7 +8,7 @@ const HomeNav = () => {
 
           {/* Logo & Title */}
           <Link className="flex items-center gap-3" to="/">
-            <img src="/public/KanBan.png" alt="TaskFlow Logo" className="w-10 h-10 object-contain" />
+            <img src="/KanBan.png" alt="TaskFlow Logo" className="w-10 h-10 object-contain" />
             <span className="text-2xl font-bold font-mono text-gray-800">Kanban Board</span>
           </Link>
 
